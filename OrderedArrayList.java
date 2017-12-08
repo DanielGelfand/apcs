@@ -101,7 +101,7 @@ public class OrderedArrayList
 		hi = mid - 1;
 	    }
 	}
-	//if no appropriate spot found add to end
+	
 	_data.add(lo,newVal);
     }
 
